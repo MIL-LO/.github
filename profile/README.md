@@ -1,6 +1,6 @@
-### 👥 Team
+### 👥 팀원 소개
 
-| **Designer** | **Frontend** | **Frontend** | **Backend** | **Backend** | **DevOps & Infra** |
-|:------------:|:------------:|:------------:|:------------:|:------------:|:------------------:|
+| 🎨 **Designer** | 🖥️ **Frontend Developer** | 🖥️ **Frontend Developer** | ⚙️ **Backend Developer** | ⚙️ **Backend Developer** | 🏗️ **DevOps & Infra Engineer** |
+|:--------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:------------------------------:|
 | <img src="https://avatars.githubusercontent.com/u/196026721?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/99801230?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/163974510?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/122339395?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/22255663?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/74126467?v=4" width="150" height="150"/> |
 | [@sojin0421](https://github.com/sojin0421) <br/> 최소진 | [@HANBEENi](https://github.com/HANBEENi) <br/> 김한빈 | [@9bfish8](https://github.com/9bfish8) <br/> 정가연 | [@virtue14](https://github.com/virtue14) <br/> 박경덕 | [@daersh](https://github.com/daersh) <br/> 이현우 | [@Leegiyeon](https://github.com/Leegiyeon) <br/> 이기연 |
